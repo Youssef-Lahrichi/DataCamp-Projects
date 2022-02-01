@@ -10,3 +10,4 @@ Current List of Completed Projects
 5. Predicting Credit Card Approvals
 6. The Android App Market on Google Play
 7. The GitHub History of the Scala Language
+8. Comparing Cosmetics by Ingredients
